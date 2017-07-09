@@ -1,0 +1,1 @@
+extract_clusters_n.py -input ~/Desktop/Last_tree/script/dataset/1/geneclusters.js ~/Desktop/Last_tree/script/dataset/2/geneclusters.js -fasta_output ~/Desktop/test.fa -cluster cluster-10 cluster-1 -heatmap_output ~/Desktop/test.png

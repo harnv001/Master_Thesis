@@ -1,0 +1,3 @@
+Example command line:
+
+python extract_domain.py -input ~/Desktop/Last_tree/script/dataset/1/geneclusters.js ~/Desktop/Last_tree/script/dataset/2/geneclusters.js -domain SQHop_cyclase_C,SQHop_cyclase_N -fasta_output ~/Desktop/Last_tree/script/Final_script/test_final1/test.txt -known_domain ~/Desktop/Last_tree/script/Final_script/SQHop_cyclase_C.hmm  ~/Desktop/Last_tree/script/Final_script/SQHop_cyclase_N.hmm
